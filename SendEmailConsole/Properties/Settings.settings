@@ -1,0 +1,35 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SendEmailConsole.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">bezvershuk_do</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Bezvershuk914</Value>
+    </Setting>
+    <Setting Name="SendFrom" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Dmytro.Bezvershuk@oranta.ua</Value>
+    </Setting>
+    <Setting Name="SendTo1" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;yurchenkotet@gmail.com&lt;/string&gt;
+  &lt;string&gt;bezyn4uk@gmail.com&lt;/string&gt;
+  &lt;string&gt;mmponomarenko@gmail.com&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="SmtpHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mail.oranta.ua</Value>
+    </Setting>
+    <Setting Name="SmtpPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">587</Value>
+    </Setting>
+    <Setting Name="Domen" Type="System.String" Scope="User">
+      <Value Profile="(Default)">or.nt</Value>
+    </Setting>
+    <Setting Name="MailSbj" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Jupiter maintenance</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
